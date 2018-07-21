@@ -1,5 +1,7 @@
-# SIMAP(Sistem Informasi Manajemen Administrasi Perkantoran) Petugas Piket
+# SIMAP(Sistem Informasi Manajemen Administrasi Pendidikan) Petugas Piket
 Sebuah aplikasi berbasis web untuk mengelola sistem petugas piket di suatu sekolah
+---
+![](ss_program/dashboard/index.jpg "Cover SIMAP Petugas Piket")
 
 ## Fitur
 * Dashboard
@@ -26,4 +28,9 @@ Jika ada pertanyaan bisa hubungi kontak dibawah :
 * [Email](mailto:ramdanzidun@gmail.com) - ramdanzidun@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/rmdnzdn/) - Muhammad Ramdan
 * [Instagram](https://www.instagram.com/rmdnzdn/) - @rmdnzdn
+
+
+```
+Ku Coding Kau dengan Bismillah
+```
 
