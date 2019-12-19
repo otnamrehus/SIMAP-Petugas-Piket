@@ -26,7 +26,7 @@ Sebuah aplikasi berbasis web untuk mengelola sistem petugas piket di suatu sekol
 
 ## Info Developer
 Jika ada pertanyaan bisa hubungi kontak dibawah : 
-* [Email](mailto:ramdanzidun@gmail.com) - ramdanzidun@gmail.com
+* [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/rmdnzdn/) - Muhammad Ramdan
 * [Instagram](https://www.instagram.com/rmdnzdn/) - @rmdnzdn
 
