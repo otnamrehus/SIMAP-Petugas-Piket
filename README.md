@@ -2,8 +2,6 @@
 
 Sebuah aplikasi berbasis web untuk mengelola sistem petugas piket di suatu sekolah
 
-![Foto Cover](ss_program/index.jpg "Cover SIMAP Petugas Piket")
-
 ## Fitur
 * Dashboard
 ![Foto Dashboard](ss_program/dashboard/absen_dsb.png "Dashboard bagian Absen Siswa")
