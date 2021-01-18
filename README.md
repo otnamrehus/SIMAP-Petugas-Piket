@@ -1,3 +1,4 @@
+# SUDAH TIDAK MAINTENANCE 
 # SIMAP(Sistem Informasi Manajemen Administrasi Pendidikan) Petugas Piket
 
 Sebuah aplikasi berbasis web untuk mengelola sistem petugas piket di suatu sekolah
@@ -22,11 +23,9 @@ Sebuah aplikasi berbasis web untuk mengelola sistem petugas piket di suatu sekol
 * Javascript
 * Bootstrap 
 
-## Info Developer
-Jika ada pertanyaan bisa hubungi kontak dibawah : 
+## Credit Developer
 * [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/ramdanzidun/) - Muhammad Ramdan
-* [Instagram](https://www.instagram.com/ramdanzidun/) - @ramdanzidun
 
 
 ```
